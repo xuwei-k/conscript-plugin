@@ -2,7 +2,7 @@ sbtPlugin := true
 
 name := "conscript-plugin"
 
-organization := "net.databinder"
+organization := "org.foundweekends"
 
 description := "conscript-plugin is an sbt plugin for making conscript apps"
 
