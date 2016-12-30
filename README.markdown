@@ -1,6 +1,8 @@
 Setup
 -----
 
+[![Build Status](https://travis-ci.org/foundweekends/conscript-plugin.svg?branch=master)](https://travis-ci.org/foundweekends/conscript-plugin)
+
 This is a plugin for making your own [Conscript][cs] apps. Get started
 using it by applying this [giter8][g8] template project.
 
