@@ -6,7 +6,7 @@ organization := "org.foundweekends"
 
 description := "conscript-plugin is an sbt plugin for making conscript apps"
 
-version := "0.3.5"
+version := "0.3.5-SNAPSHOT"
 
 scalacOptions ++= Seq("-deprecation", "-language:_")
 
